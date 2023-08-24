@@ -1,12 +1,23 @@
-.mySwiper2 {
-  height: 80%;
-  width: 100%;
+body {
+  font-family: arial, helvetica;
 }
 
-.swiper-slide img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+h3 {
+  font-size: 5em;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
 }
 
+#section1 {
+  color: #fff;
+}
+.section{
+  height: 100vh;
+  
+}
+
+.fp-section {
+  text-align: center;
+}
+ 
